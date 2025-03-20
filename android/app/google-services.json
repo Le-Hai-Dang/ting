@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "386988313681",
+    "project_id": "basicapp-676ed",
+    "storage_bucket": "basicapp-676ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386988313681:android:55d6bbc9298a17d3e87c70",
+        "android_client_info": {
+          "package_name": "com.example.ting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuDMUr5TbccqzPYFbPE2rpkTLTbVy-O-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
